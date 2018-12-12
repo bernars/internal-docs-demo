@@ -1,5 +1,5 @@
 # Repo Docs
 
-### [Internal Docs](/internal-docs/README.md)
+### [Internal Docs](./internal-docs/README.md)
 
 Start here!
